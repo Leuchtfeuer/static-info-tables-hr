@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Leuchtfeuer\\StaticInfoTablesBg\\": "Classes/"
+      "Leuchtfeuer\\StaticInfoTablesHr\\": "Classes/"
     }
   },
   "extra": {

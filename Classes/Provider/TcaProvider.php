@@ -11,7 +11,7 @@ declare(strict_types=1);
 
 namespace Leuchtfeuer\StaticInfoTablesHr\Provider;
 
-use Leuchtfeuer\StaticInfoTablesBg\Extension;
+use Leuchtfeuer\StaticInfoTablesHr\Extension;
 use TYPO3\CMS\Core\Utility\ExtensionManagementUtility;
 
 class TcaProvider
